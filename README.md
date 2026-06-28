@@ -1,6 +1,6 @@
-# Código en R: Masa monetaria e inflación en Ecuador (2020-2026)
+# Masa monetaria e inflación en Ecuador (2020-2026)
 
-En este repositorio dejé los archivos y el código que usé para revisar si la cantidad de dinero en circulación (M2) realmente afecta al Índice de Precios al Consumidor (IPC) en Ecuador. La idea era ver si la teoría económica clásica funciona en un país dolarizado, especialmente con los cambios que hubo después de la pandemia.
+En este repositorio están los archivos y el código que usé para revisar si la cantidad de dinero en circulación (M2) realmente afecta al Índice de Precios al Consumidor (IPC) en Ecuador. La idea era ver si la teoría económica clásica funciona en un país dolarizado, especialmente con los cambios que hubo después de la pandemia.
 
 ## ¿Qué hay aquí dentro?
 
